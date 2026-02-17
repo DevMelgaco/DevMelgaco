@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Marcelo | Dev Melgaço 👋
 
-<!--
-**DevMelgaco/DevMelgaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista em desenvolvimento de **Landing Pages de Alta Conversão** e Web Design. 
+Focado em transformar a presença digital de profissionais liberais e empresas.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Habilidades
+- **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
+- **Nichos de Atuação:** Saúde (Vet/Dentistas), Estética, Imobiliário e Serviços Locais.
+- **Ferramentas:** VS Code, Git & GitHub, Google Business Profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projetos em Destaque
+* [Landing Page - Apresentação Advogados](https://devmelgaco.github.io/Paginas-Advogados/)
+* [Landing Page - Consultoria Imobiliária](https://devmelgaco.github.io/Pagina-Barba-Corte-Salao/)
+* [Landing Page - Consultório Dentista](https://devmelgaco.github.io/Pagina-Dentista/)
+
+---
+📫 **Contato:** [melgaco.anacleto@gmail.com] | [https://wa.me/5531987836850]
