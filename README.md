@@ -10,7 +10,7 @@ Focado em transformar a presença digital de profissionais liberais e empresas.
 
 ### 🚀 Projetos em Destaque
 * [Landing Page - Apresentação Advogados](https://devmelgaco.github.io/Paginas-Advogados/)
-* [Landing Page - Consultoria Imobiliária](https://devmelgaco.github.io/Pagina-Barba-Corte-Salao/)
+* [Landing Page - Barbearia](https://devmelgaco.github.io/Pagina-Barba-Corte-Salao/)
 * [Landing Page - Consultório Dentista](https://devmelgaco.github.io/Pagina-Dentista/)
 
 ---
